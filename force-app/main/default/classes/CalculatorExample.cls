@@ -3,8 +3,8 @@ public with sharing class CalculatorExample {
 
     }
 
-    public static void add(Integer x, Integer y) 
+    public static void sub(Integer x, Integer y) 
     {
-            Integer z=x+y;    
+            Integer z=x-y;    
     }
 }
